@@ -1,8 +1,8 @@
 import webbrowser 
 import tweepy
 
-consumer_key = "34bepI0KblEkA2S8yPOyxylZu"
-consumer_secret = "DYsOFKrjrP8TLOYZ0ure05yczaFseF9p3eVSc3hrTuMzTM6nGC"
+consumer_key = ""
+consumer_secret = ""
 
 callback_uri = 'oob'
 
