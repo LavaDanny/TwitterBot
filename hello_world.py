@@ -5,6 +5,9 @@ import consumer_keys
 consumer_key = consumer_keys.get_consumer_key()
 consumer_secret = consumer_keys.get_consumer_secret()
 
+access_token =  consumer_keys.get_access_token()
+access_secret = consumer_keys.get_access_secret()
+
 callback_uri = 'oob'
 
 # authenticate to Twitter
